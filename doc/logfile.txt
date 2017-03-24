@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+C:\PROGRA~1\Java\JDK18~1.0_1\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;E:\Program\Java\Project
+-d
+E:\Program\Java\Project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+E:\Program\Java\Project\Canvas.java
+<---- end of javadoc command ---->
+Loading source file E:\Program\Java\Project\Canvas.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating E:\Program\Java\Project\doc\Canvas.html...
+E:\Program\Java\Project\Canvas.java:16: warning - @author: is an unknown tag.
+E:\Program\Java\Project\Canvas.java:16: warning - @author: is an unknown tag.
+E:\Program\Java\Project\Canvas.java:16: warning - @version: is an unknown tag.
+E:\Program\Java\Project\Canvas.java:122: warning - @param argument "newColour" is not a parameter name.
+Generating E:\Program\Java\Project\doc\package-frame.html...
+Generating E:\Program\Java\Project\doc\package-summary.html...
+Generating E:\Program\Java\Project\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating E:\Program\Java\Project\doc\allclasses-frame.html...
+Generating E:\Program\Java\Project\doc\allclasses-noframe.html...
+Generating E:\Program\Java\Project\doc\index.html...
+Generating E:\Program\Java\Project\doc\stylesheet.css...
+4 warnings

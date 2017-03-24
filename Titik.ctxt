@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Titik()
+comment1.params=x\ y
+comment1.target=Titik(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Getter\ for\ x\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Getter\ for\ Y\r\n
+comment4.params=x
+comment4.target=void\ setX(int)
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=x
+comment6.target=void\ moveInXDir(int)
+comment7.params=y
+comment7.target=void\ moveInYDir(int)
+numComments=8
